@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuriiCodes
 - 👀 I’m interested in web dev, machine learning and crypto
-- 🌱 I’m currently learning C++
+
 
 
 <!---
