@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @YuriiCodes
-- 👀 I’m interested in web dev, machine learning and crypto
+# Yurii Pidlisnyi (@YuriiCodes)👋
+- 💻 Core stack: TypeScript, React.js, Node.js & Nest.js. Mainly focused on the backend part & overall product development
+- 📍 I’m interested in web dev, marketing & products creation
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiCodes)](https://github.com/anuraghazra/github-readme-stats)
 
