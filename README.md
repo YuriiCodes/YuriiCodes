@@ -1,8 +1,5 @@
 # Yurii Pidlisnyi (@YuriiCodes)👋
 - 💻 Core stack: **TypeScript**, **React.js**, **Node.js** & **Nest.js**. 
-- 📍 I’m interested in web dev, marketing & products creation
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiCodes)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 YuriiCodes/YuriiCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
